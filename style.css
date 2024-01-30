@@ -17,6 +17,8 @@ h1 {
 }
 
 img {
-    display: block; /* Make the image a block element */
-    margin: 0 auto; /* Center the image horizontally */
+    display: block;
+    margin: 0 auto;
+    width: 150%;
+    height: 150%;
 }
